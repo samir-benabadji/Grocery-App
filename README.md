@@ -14,6 +14,8 @@ creating a custom animation
 
 ### Grocery App Final UI Preview
 
-![Preview](/gif.gif)
 
-![App UI](/ui.png)
+| Main Menu | Detail | Cart |
+|--|--|--|
+| ![Home Parent](p1.png) | ![Home Admin](p2.png) | ![Home Teacher](p3.png) |!
+
